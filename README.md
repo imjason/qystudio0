@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**qystudio0/qystudio0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# QY STUDIO
 
-Here are some ideas to get you started:
+![QY studio's github stats](https://github-readme-stats.vercel.app/api?username=qystudio0)
+## Hi! This is QY studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/qystudio0/qystudio0.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qystudio0&repo=qystudio0.github.io&show_owner=true" />
+</a>
+
+<br>
+
+### Where To Find Me 🔍
+
+- 📝 My Blog: [**W4J1e's Blog**](https://qystudio.ltd)
+
+#### Nice to see you! 
+
+----
+
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
