@@ -1,8 +1,8 @@
 
 # QY STUDIO
+## Hi! This is QY studio
 
 ![QY studio's github stats](https://github-readme-stats.vercel.app/api?username=qystudio0)
-## Hi! This is QY studio
 
 <a href="https://github.com/qystudio0/qystudio0.github.io">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=qystudio0&repo=qystudio0.github.io&show_owner=true" />
@@ -12,7 +12,7 @@
 
 ### Where To Find Me 🔍
 
-- 📝 My Blog: [**W4J1e's Blog**](https://qystudio.ltd)
+- 📝 My Blog: [**QY studio's Blog**](https://qystudio.ltd)
 
 #### Nice to see you! 
 
