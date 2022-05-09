@@ -2,8 +2,7 @@
 # QY STUDIO
 ## Hi! This is QY studio
 
-![QY studio's github stats](<img align="right" src="https://github-readme-stats.vercel.app/api?username=qystudio0&show_icons=true&include_all_commits=true&locale=cn&theme=nord" />
-)
+![QY studio's github stats](https://github-readme-stats.vercel.app/api?username=qystudio0&show_icons=true&include_all_commits=true&locale=cn&theme=nord)
 
 <br>
 
