@@ -2,11 +2,8 @@
 # QY STUDIO
 ## Hi! This is QY studio
 
-![QY studio's github stats](https://github-readme-stats.vercel.app/api?username=qystudio0)
-
-<a href="https://github.com/qystudio0/qystudio0.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qystudio0&repo=qystudio0.github.io&show_owner=true" />
-</a>
+![QY studio's github stats](<img align="right" src="https://github-readme-stats.vercel.app/api?username=qystudio0&show_icons=true&include_all_commits=true&locale=cn&theme=nord" />
+)
 
 <br>
 
