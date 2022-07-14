@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://qystudio.ltd/atom.xml"
           max_post_count: "5"
+          gh_token: ${{ secrets.GH_TOKEN }}
