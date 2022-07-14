@@ -6,11 +6,16 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/1a744d7f2c8bdbff119b8fef40b98ca0a4dff0aa.svg "Repobeats analytics image")
 
-### Where To Find Me 🔍
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Where To Find Me 🔍
 
 - 📝 My Blog: [**QY studio's Blog**](https://qystudio.ltd)
 
-#### Nice to see you! 
+### Nice to see you! 
 
 ----
 
