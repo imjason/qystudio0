@@ -13,7 +13,7 @@
 
 ## Where To Find Me 🔍
 
-- 📝 My Blog: [**QY studio's Blog**](https://qystudio.ltd)
+- 📝 My Blog: [**QY studio's Blog**](https://qystu.cc)
 
 ### Nice to see you! 
 
